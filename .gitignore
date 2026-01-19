@@ -1,0 +1,83 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015/2017/2019 cache/options
+.vs/
+*.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.cache
+
+# Visual Studio 2017 auto-generated files
+Generated\ Files/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local VS cache
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2019 cache/solution
+*.cache
+*.vsdx
+*.vssscc
+*.vspscc
+*.csproj.user
+
+# NuGet packages
+packages/
+*.nuget.props
+*.nuget.targets
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Test results
+TestResults/
+
+# Coverage reports
+coverage/
+.coverage/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# IDE
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
